@@ -86,14 +86,14 @@ The following styles pertain to the way that hyperlinks are styled,
 including differences between active and visited links.
 */
 a {
-    color: grey;
+    color: white;
     margin: 0;
     padding: 0;
     vertical-align: baseline;
 }
 
 a:visited {
-    color: black;
+    color: white;
 }
 
 a:hover {
