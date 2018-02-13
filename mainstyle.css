@@ -1,11 +1,10 @@
 body{
     margin: 0 auto;
+    margin-left: 320px;
     margin-top: 40px;
     background-color:#0099ff;
     font-family:"Times New Roman", Times, serif;
-
     color: black;
-
     line-height: 1;
     max-width: 1200px;
     padding: 20px;
