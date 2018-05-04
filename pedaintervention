@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <link rel="stylesheet" type="text/css" href="mainstyle.css">
+  <title>S.D.Helman Professional</title>
+ </head>
+<body>
+  <div class="sidenav">
+  <a class="active" href="index.html">Intro</a>
+  <a href="bio.html">Bio</a>
+  <a href="academic.html">Academic History</a>
+ <a href="areaint.html">Areas of Interest</a>
+ <a href="https://manoftheliteraryhel.wordpress.com/">Blog</a>
+   <a href="/twine/Reawakening.html">Reawakening</a>
+   <a href="voyant.html">Henry James Voyant Project</a>
+</div>
+<h1>A Visual Approach to Text for ENGL121</h1>
+<h2>Introduction</h2>
+<p>This pedagogical intervention makes use of the Voyant tool to create textual visualizations to spur further questions into our understandings of older texts. This particular intervention focuses on using the Voyant tool to analyze texts in an undergraduate literature elective context. Particularly within IUP's ENGL121 Humanities Literature course. This particular project would have students looking at the works, <i>Villette</i> by 
